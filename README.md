@@ -1,42 +1,56 @@
-# Hi, I'm Hrishabh 👋
+<h1 align="center" style="font-weight: normal;">Hi, I'm <strong>Hrishabh 👋</strong></h1>
 
-I'm learning Python and QA Automation and trying to improve a little every day.  
-Right now, I’m mainly focusing on:
-
-- Writing clean Python code  
-- Understanding FastAPI  
-- Practicing API testing with Pytest  
-- Building small projects to learn backend + testing
-
-I enjoy creating simple things that actually work, and I try to keep my code easy to understand.
+<p align="center" style="font-size: 16px;">
+Learning Python and QA Automation, and getting better little by little every day.
+</p>
 
 ---
 
-### 🔧 Skills I'm working with
-- Python  
-- FastAPI (beginner level)  
-- Pytest  
-- API Testing  
-- Git & GitHub  
-- VS Code / PyCharm  
+## ✨ What I'm Learning & Focusing On
+- Mainly focused on **QA Automation**  
+- Practicing API automation using **Pytest**  
+- Understanding backend basics with **FastAPI**  
+- Slowly starting with **Selenium (locators, waits, small scripts)**  
+- Writing clean and simple Python code  
+- Building small testing projects to improve step by step  
+
+I enjoy creating small things that work well and help me learn properly.
 
 ---
 
-### 📌 Projects
+## 🛠️ Skills I'm Practicing (QA Automation Focus)
+- **Python (for automation scripts)**  
+- **Pytest** – writing test cases, fixtures, assertions  
+- **API Testing** – positive/negative testing, validation  
+- **Selenium (beginner)** – locators, waits, simple automation flows  
+- **FastAPI basics** – to understand backend behaviour for testing  
+- **Postman** – checking APIs before automation  
+- **Git & GitHub** – version control  
+- **Basic Linux commands** – useful for QA  
+- **VS Code / PyCharm**  
 
-#### **Aadhaar & PAN Validation API**
-A small FastAPI project where I validate Aadhaar and PAN numbers and write test cases using Pytest.  
-It helped me understand API structure, validation logic, and automated testing.
-
-👉 Repo: https://github.com/hrishabhp/aadhaar-pan-validation-api
-
----
-
-### 📈 GitHub Stats
-*(Just for fun, helps me stay consistent)*
-
-![Hrishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishabhp&show_icons=true&theme=transparent)
+*(These are skills I'm improving slowly over time.)*
 
 ---
 
-Thanks for visiting 🙂
+## 📌 Projects
+
+### **Aadhaar & PAN Validation API**
+A learning project where I validate Aadhaar and PAN numbers using FastAPI  
+and practice automated test cases with Pytest.
+
+🔗 *Repository:*  
+https://github.com/hrishabhp/aadhaar-pan-validation-api
+
+---
+
+## 📊 GitHub Stats
+*(Just something I use to stay consistent)*
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrishabhp&show_icons=true&theme=calm" height="160"/>
+</p>
+
+---
+
+<p align="center">Thanks for visiting 🙂</p>
